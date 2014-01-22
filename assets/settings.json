@@ -1,0 +1,11 @@
+{
+    "GDLibraryMode": "GDEnterprise",
+    "GDApplicationID":"com.ss.gd.example.gdsocket",
+    "GDApplicationVersion":"1.0.0.1",
+    "GDConsoleLogger": [
+        "GDFilterErrors_",
+        "GDFilterWarnings_",
+        "GDFilterInfo_",
+        "GDFilterDetailed_",
+    ]
+}
